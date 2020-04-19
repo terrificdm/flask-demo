@@ -1,3 +1,5 @@
+# This is Dockerfile for running Flask-Demo 
+
 FROM python:latest
 
 COPY . /app
